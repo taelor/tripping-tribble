@@ -1,3 +1,3 @@
 # tripping-tribble
 
-Hello World!
+> Tripping Tribble, because we miss you Spock.
